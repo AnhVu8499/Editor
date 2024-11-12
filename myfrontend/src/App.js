@@ -18,7 +18,7 @@ const App = () => {
             ) : (
                 <>
                     <h1>Welcome, {username}!</h1>
-                    <EditorComponent id={id} username={username} /> 
+                    <EditorComponent username={username} /> 
                 </>
             )}
         </div>
