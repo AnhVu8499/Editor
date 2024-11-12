@@ -1,0 +1,7 @@
+- Django
+- channels
+- channels-redis
+- aioredis
+- daphne
+- redis
+- asgiref
